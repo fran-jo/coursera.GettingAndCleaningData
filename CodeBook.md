@@ -1,0 +1,44 @@
+Enumeration of the resulting data set
+- activity: label of the activity measured
+- subject: id of the subject of study
+- avg_tBodyAcc_meanX,Y,Z - (3 columns)
+- avg_tBodyAcc_stdX,Y,Z - (3 columns)
+- avg_tGravityAcc_meanX,Y,Z - (3 columns)
+- avg_tGravityAcc_stdX,Y,Z - (3 columns)
+- avg_tBodyAccJerk_meanX,Y,Z - (3 columns)
+- avg_tBodyAccJerk_stdX,Y,Z - (3 columns)
+- avg_tBodyGyro_meanX,Y,Z - (3 columns)
+- avg_tBodyGyro_stdX,Y,Z - (3 columns)
+- avg_tBodyGyroJerk_meanX,Y,Z - (3 columns)
+- avg_tBodyGyroJerk_stdX,Y,Z - (3 columns)
+- avg_tBodyAccMag_mean
+- avg_tBodyAccMag_std
+- avg_tGravityAccMag_mean
+- avg_tGravityAccMag_std
+- avg_tBodyAccJerkMag_mean
+- avg_tBodyAccJerkMag_std
+- avg_tBodyGyroMag_mean
+- avg_tBodyGyroMag_std
+- avg_tBodyGyroJerkMag_mean
+- avg_tBodyGyroJerkMag_std
+- avg_fBodyAcc_meanX,Y,Z - (3 columns)
+- avg_fBodyAcc_stdX,Y,Z - (3 columns)
+- avg_fBodyAcc_meanFreqX,Y,Z - (3 columns)
+- avg_fBodyAccJerk_meanX,Y,Z - (3 columns)
+- avg_fBodyAccJerk_stdX,Y,Z - (3 columns)
+- avg_fBodyAccJerk_meanFreqX,Y,Z - (3 columns)
+- avg_fBodyGyro_meanX,Y,Z - (3 columns)
+- avg_fBodyGyro_stdX,Y,Z - (3 columns)
+- avg_fBodyGyro_meanFreqX,Y,Z - (3 columns)
+- avg_fBodyAccMag_mean
+- avg_fBodyAccMag_std
+- avg_fBodyAccMag_meanFreq
+- avg_fBodyBodyAccJerkMag_mean
+- avg_fBodyBodyAccJerkMag_std
+- avg_fBodyBodyAccJerkMag_meanFreq
+- avg_fBodyBodyGyroMag_mean
+- avg_fBodyBodyGyroMag_std
+- avg_fBodyBodyGyroMag_meanFreq
+- avg_fBodyBodyGyroJerkMag_mean
+- avg_fBodyBodyGyroJerkMag_std
+- avg_fBodyBodyGyroJerkMag_meanFreq
